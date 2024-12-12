@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/mnt/d/desktop/Competitions/Compiler/antlr_test/build",
+  "command": "g++ -I/mnt/d/desktop/Competitions/Compiler/antlr_test/third_party/antlr4-cpp-runtime-4.13.2 -I/mnt/d/desktop/Competitions/Compiler/antlr_test/generated_test -I/mnt/d/desktop/Competitions/Compiler/antlr_test/generated -g -o CMakeFiles/a.dir/main.cpp.o -c /mnt/d/desktop/Competitions/Compiler/antlr_test/main.cpp",
+  "file": "/mnt/d/desktop/Competitions/Compiler/antlr_test/main.cpp"
+},
+{
+  "directory": "/mnt/d/desktop/Competitions/Compiler/antlr_test/build",
+  "command": "g++ -I/mnt/d/desktop/Competitions/Compiler/antlr_test/third_party/antlr4-cpp-runtime-4.13.2 -I/mnt/d/desktop/Competitions/Compiler/antlr_test/generated_test -I/mnt/d/desktop/Competitions/Compiler/antlr_test/generated -g -o CMakeFiles/a.dir/MyCVisitor.cpp.o -c /mnt/d/desktop/Competitions/Compiler/antlr_test/MyCVisitor.cpp",
+  "file": "/mnt/d/desktop/Competitions/Compiler/antlr_test/MyCVisitor.cpp"
+},
+{
+  "directory": "/mnt/d/desktop/Competitions/Compiler/antlr_test/build",
+  "command": "g++ -I/mnt/d/desktop/Competitions/Compiler/antlr_test/third_party/antlr4-cpp-runtime-4.13.2 -I/mnt/d/desktop/Competitions/Compiler/antlr_test/generated_test -I/mnt/d/desktop/Competitions/Compiler/antlr_test/generated -g -o CMakeFiles/a.dir/generated_test/ExprTestBaseListener.cpp.o -c /mnt/d/desktop/Competitions/Compiler/antlr_test/generated_test/ExprTestBaseListener.cpp",
+  "file": "/mnt/d/desktop/Competitions/Compiler/antlr_test/generated_test/ExprTestBaseListener.cpp"
+},
+{
+  "directory": "/mnt/d/desktop/Competitions/Compiler/antlr_test/build",
+  "command": "g++ -I/mnt/d/desktop/Competitions/Compiler/antlr_test/third_party/antlr4-cpp-runtime-4.13.2 -I/mnt/d/desktop/Competitions/Compiler/antlr_test/generated_test -I/mnt/d/desktop/Competitions/Compiler/antlr_test/generated -g -o CMakeFiles/a.dir/generated_test/ExprTestBaseVisitor.cpp.o -c /mnt/d/desktop/Competitions/Compiler/antlr_test/generated_test/ExprTestBaseVisitor.cpp",
+  "file": "/mnt/d/desktop/Competitions/Compiler/antlr_test/generated_test/ExprTestBaseVisitor.cpp"
+},
+{
+  "directory": "/mnt/d/desktop/Competitions/Compiler/antlr_test/build",
+  "command": "g++ -I/mnt/d/desktop/Competitions/Compiler/antlr_test/third_party/antlr4-cpp-runtime-4.13.2 -I/mnt/d/desktop/Competitions/Compiler/antlr_test/generated_test -I/mnt/d/desktop/Competitions/Compiler/antlr_test/generated -g -o CMakeFiles/a.dir/generated_test/ExprTestLexer.cpp.o -c /mnt/d/desktop/Competitions/Compiler/antlr_test/generated_test/ExprTestLexer.cpp",
+  "file": "/mnt/d/desktop/Competitions/Compiler/antlr_test/generated_test/ExprTestLexer.cpp"
+},
+{
+  "directory": "/mnt/d/desktop/Competitions/Compiler/antlr_test/build",
+  "command": "g++ -I/mnt/d/desktop/Competitions/Compiler/antlr_test/third_party/antlr4-cpp-runtime-4.13.2 -I/mnt/d/desktop/Competitions/Compiler/antlr_test/generated_test -I/mnt/d/desktop/Competitions/Compiler/antlr_test/generated -g -o CMakeFiles/a.dir/generated_test/ExprTestListener.cpp.o -c /mnt/d/desktop/Competitions/Compiler/antlr_test/generated_test/ExprTestListener.cpp",
+  "file": "/mnt/d/desktop/Competitions/Compiler/antlr_test/generated_test/ExprTestListener.cpp"
+},
+{
+  "directory": "/mnt/d/desktop/Competitions/Compiler/antlr_test/build",
+  "command": "g++ -I/mnt/d/desktop/Competitions/Compiler/antlr_test/third_party/antlr4-cpp-runtime-4.13.2 -I/mnt/d/desktop/Competitions/Compiler/antlr_test/generated_test -I/mnt/d/desktop/Competitions/Compiler/antlr_test/generated -g -o CMakeFiles/a.dir/generated_test/ExprTestParser.cpp.o -c /mnt/d/desktop/Competitions/Compiler/antlr_test/generated_test/ExprTestParser.cpp",
+  "file": "/mnt/d/desktop/Competitions/Compiler/antlr_test/generated_test/ExprTestParser.cpp"
+},
+{
+  "directory": "/mnt/d/desktop/Competitions/Compiler/antlr_test/build",
+  "command": "g++ -I/mnt/d/desktop/Competitions/Compiler/antlr_test/third_party/antlr4-cpp-runtime-4.13.2 -I/mnt/d/desktop/Competitions/Compiler/antlr_test/generated_test -I/mnt/d/desktop/Competitions/Compiler/antlr_test/generated -g -o CMakeFiles/a.dir/generated_test/ExprTestVisitor.cpp.o -c /mnt/d/desktop/Competitions/Compiler/antlr_test/generated_test/ExprTestVisitor.cpp",
+  "file": "/mnt/d/desktop/Competitions/Compiler/antlr_test/generated_test/ExprTestVisitor.cpp"
+}
+]
